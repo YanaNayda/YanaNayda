@@ -21,7 +21,7 @@ Motivated to apply strong programming and problem-solving skills in a Junior Sof
 | **Cognitive Testing App** — Cross-platform medical application for cognitive health monitoring of elderly patients. | Compose Multiplatform · Kotlin · Ktor · Voyager |
 | **GymBro** — Mobile workout planner with personalized training plans and Firebase data management. | Java · Firebase · Android Studio |
 | **PawPal** — Full-stack social network for pet owners featuring a social feed, real-time chat, and marketplace. | React · React Native · Node.js · Express · MongoDB |
-| **DevOps CI/CD Pipeline** — Automated build, testing, and deployment pipeline with automated testing. | Jenkins · GitHub · Selenium · Gatling |
+| **Agentic Payment System** — Multi-agent digital payment platform (Bit-style) with fraud detection, security auditing, multi-agent debate, and an interactive bank UI built inside Jupyter Notebook. | Python · Jupyter · Agentic AI · Ollama |
 
 ---
 
